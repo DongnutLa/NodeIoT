@@ -1,0 +1,22 @@
+{
+  "name": "platziverse-cli",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "bin": "platziverse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "DongnutLa <luahernandezdu@unal.edu.co>",
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^17.0.0"
+  },
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.7.5",
+    "moment": "^2.18.1",
+    "platziverse-agent": "file:../platziverse-agent"
+  }
+}

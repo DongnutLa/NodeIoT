@@ -1,0 +1,12 @@
+Log created: 2022-05-13T04:01:30.431222000Z
+Process ID:  11442 (0x2cb2)
+Parent PID:  1601 (0x641)
+Executable:  /usr/lib/virtualbox/VBoxHeadless
+Arg[0]: /usr/lib/virtualbox/VBoxHeadless
+Arg[1]: --comment
+Arg[2]: platziverse-deploy_default_1652413204089_41792
+Arg[3]: --startvm
+Arg[4]: 7e259032-629d-4dff-9ce3-4aa4241730e5
+Arg[5]: --vrde
+Arg[6]: config
+AddRef: illegal refcnt=3221225469 state=2
